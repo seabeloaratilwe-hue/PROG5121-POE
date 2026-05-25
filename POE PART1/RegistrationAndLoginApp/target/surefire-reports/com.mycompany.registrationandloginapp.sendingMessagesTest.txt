@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.registrationandloginapp.sendingMessagesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.131 s <<< FAILURE! -- in com.mycompany.registrationandloginapp.sendingMessagesTest
+com.mycompany.registrationandloginapp.sendingMessagesTest.IncorrecttestMessageSent -- Time elapsed: 0.068 s <<< ERROR!
+java.lang.UnsupportedOperationException: Not supported yet.
+	at com.mycompany.registrationandloginapp.sendingMessages.checkMessageSent(sendingMessages.java:34)
+	at com.mycompany.registrationandloginapp.sendingMessagesTest.IncorrecttestMessageSent(sendingMessagesTest.java:105)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
